@@ -1,2 +1,2 @@
 # messagecleaner
-automatic filter spam messages
+automatically filter spam messages
